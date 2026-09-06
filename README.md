@@ -1,7 +1,7 @@
 # Bankai — Quadcopter Build and Flight
 
 A fully assembled and flight-tested quadcopter built from individual components during a robotics engineering internship at Setscentral Ltd., Yola, Nigeria, in 2022.
-
+Over roughly four weeks of testing (four sessions a week, at least three hours per session), the team took turns piloting Bankai in flights of ten-plus minutes each, eventually achieving stable controlled flight at altitudes exceeding a two-storey building. The flight controller was fully calibrated within four attempts, aided by prior simulated flight training in RealFlight.
 ![Bankai Quadcopter](images/Bankai_Quadopter.jpg)
 ## Overview
 
@@ -93,13 +93,13 @@ The battery was charged using a B6 V3 Smart Charger, with attention given to bal
 
 ## Build and Integration
 
-The physical construction involved integrating the mechanical, electrical and control components of the quadcopter.
+The physical construction involved integrating the mechanical, electrical, and control components of the quadcopter.
 
 ### Mechanical Assembly
 
 The HolyBro S500 frame and arms were assembled using fasteners.
 
-The four brushless motors were mounted to the arms using bolts and nuts, with attention given to motor orientation.
+The four brushless motors were mounted on the arms with bolts and nuts, with attention to motor orientation.
 
 ### Electrical Integration
 
@@ -156,7 +156,7 @@ Following assembly and calibration, Bankai was successfully flown.
 
 The project progressed from simulated flight training using RealFlight to physical calibration and controlled flight testing of the completed quadcopter.
 
-The completed system demonstrated the integration of mechanical, electrical, power, communication, navigation and flight-control components into a functioning UAV.
+The completed system demonstrated the integration of mechanical, electrical, power, communication, navigation, and flight-control components into a functioning UAV.
 
 ---
 
@@ -178,7 +178,7 @@ Continuity testing was performed after each connection to identify potential ele
 
 The calibration sequence required following specific procedures and physically orienting the aircraft correctly during sensor calibration.
 
-Multiple attempts were required before the calibration process was successfully completed.
+Multiple attempts were required before the calibration process was completed.
 
 ---
 
@@ -188,7 +188,7 @@ The project gave me practical experience in:
 
 - Understanding the function of individual UAV components
 - Assembling a quadcopter from individual components
-- Integrating motors, ESCs, power distribution and flight-control systems
+- Integrating motors, ESCs, power distribution, and flight-control systems
 - Soldering electrical connections
 - Performing continuity testing
 - Configuring and calibrating a Pixhawk flight controller
@@ -206,9 +206,9 @@ The project gave me practical experience in:
 
 Building Bankai gave me a practical understanding of how individual engineering components become a functioning system.
 
-Rather than studying motors, sensors, controllers and power systems independently, I had to understand how they interacted within one physical platform. The project reinforced the importance of system integration, careful testing and troubleshooting in engineering.
+Rather than studying motors, sensors, controllers, and power systems independently, I had to understand how they interacted within one physical platform. The project reinforced the importance of system integration, careful testing, and troubleshooting in engineering.
 
-The progression from simulation to physical assembly, calibration and flight also showed me the value of learning through building and experimentation.
+The progression from simulation to physical assembly, calibration, and flight also showed me the value of learning through building and experimentation.
 
 ---
 
@@ -257,13 +257,13 @@ bankai-quadcopter/
 ├── README.md
 │
 └── images/
-    ├── Bankai_Quadopter.jpg
-    ├── Bankai_with_its_creators.jpg
-    ├── HolyBro S500 480 mm.jpg
-    ├── M8N GPS + brushless motors.jpg
-    ├── bankai_in_making.jpg
-    ├── propellers.jpg
-    └── README.md
+│   ├── Bankai_Quadopter.jpg
+│   ├── Bankai_with_its_creators.jpg
+│   ├── HolyBro S500 480 mm.jpg
+│   ├── M8N GPS + brushless motors.jpg
+│   ├── bankai_in_making.jpg
+│   ├── propellers.jpg
+│   └── README.md
 │
 └── references/
     └── component_datasheets.md
