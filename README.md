@@ -19,7 +19,7 @@ Before operating the physical quadcopter, I used the RealFlight drone simulator 
 
 I practised using obstacle courses in the simulation environment. This provided a low-risk way to develop basic flight control skills and understand the behaviour of a quadcopter before progressing to physical flight.
 
-The experience helped me develop an initial understanding of drone flight dynamics and provided a foundation for the subsequent physical flight testing of Bankai.
+The experience helped me develop an initial understanding of drone flight dynamics and laid the foundation for subsequent physical flight testing of Bankai.
 
 ---
 
@@ -255,13 +255,15 @@ The project was completed as part of a robotics engineering internship focused o
 bankai-quadcopter/
 │
 ├── README.md
-├── images/
-│   ├── bankai.jpg
-│   ├── assembly/
-│   └── components/
 │
-├── calibration/
-│   └── mission_planner_notes.md
+└── images/
+    ├── Bankai_Quadopter.jpg
+    ├── Bankai_with_its_creators.jpg
+    ├── HolyBro S500 480 mm.jpg
+    ├── M8N GPS + brushless motors.jpg
+    ├── bankai_in_making.jpg
+    ├── propellers.jpg
+    └── README.md
 │
 └── references/
     └── component_datasheets.md
