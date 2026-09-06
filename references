@@ -1,0 +1,8 @@
+Quadcopter Component Datasheets
+
+1. HolyBro S500 480mm Frame — [Frame kit documentation](https://docs.holybro.com/drone-development-kit/s500-frame-kit)
+2. Pixhawk 2.4.8 (32-bit) Flight Controller — [Pixhawk hardware overview & pinouts](https://ardupilot.org/copter/docs/common-pixhawk-overview.html)
+3. 30A 3–4S Electronic Speed Controller — [BLHeli 30A ESC reference specs](https://hobbyking.com/en_us/blheli-s-30a.html)
+4. LiPo 5200mAh 11.1V 60C Battery (XT60) — [60C 5200mAh 3S LiPo reference specs](https://hobbyking.com/turnigy-heavy-duty-5200mah-3s-60c-lipo-battery-pack-w-xt90.html)
+5. M8N GPS Module with Compass — [ArduPilot GPS module overview](https://ardupilot.org/copter/docs/common-installing-3dr-ublox-gps-compass-module.html)
+NOTE: The ESC, battery, and GPS module used in this build were generic/commodity parts rather than a single named manufacturer's product, so the links above point to representative datasheets covering the exact specs (30A/3–4S, 5200mAh/11.1V/60C, M8N) rather than the specific unit purchased.
